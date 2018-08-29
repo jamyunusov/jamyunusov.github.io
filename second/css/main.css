@@ -1,0 +1,114 @@
+.navbar-light, .navbar-nav, .nav-link {
+  color: white !important; }
+
+.navbar-brand img {
+  width: 50%;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  padding: 10px; }
+
+.nav-link {
+  color: white;
+  font-size: 26px; }
+
+.nav-link:hover {
+  color: #701d22; }
+
+.bg-danger {
+  background-color: rgba(152, 40, 46, 0.6) !important; }
+
+#home {
+  background: url(../img/bg1.1.jpg) center no-repeat;
+  background-size: cover;
+  height: 700px;
+  padding-top: 20px;
+  color: black; }
+
+.banner {
+  margin-top: 150px; }
+  .banner h1 {
+    font-size: 48px;
+    text-shadow: 2px 3px 7px #98282E;
+    color: white; }
+  .banner p {
+    font-size: 20px;
+    color: white;
+    text-shadow: 1px 1px 10px #98282E; }
+
+#product {
+  padding-top: 50px; }
+
+.card {
+  margin-bottom: 40px; }
+
+.card3 {
+  padding: 37px 10px; }
+
+.box-img {
+  width: 100%;
+  text-align: center; }
+
+.chair1 {
+  width: 45%; }
+
+.table1 {
+  padding-top: 20px; }
+
+.table3 {
+  padding-top: 20px; }
+
+#steps {
+  margin-top: 50px; }
+  #steps p {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 18px; }
+
+.wrap {
+  width: 100%;
+  text-align: center;
+  height: 180px; }
+
+.call {
+  width: 58%; }
+
+.badge1 {
+  position: absolute;
+  top: 25px;
+  right: 60px;
+  font-size: 20px; }
+
+.badge2 {
+  position: absolute;
+  top: 40px;
+  right: 50px;
+  font-size: 20px; }
+
+.badge3 {
+  position: absolute;
+  top: 40px;
+  right: 40px;
+  font-size: 20px; }
+
+#contact {
+  margin-top: 50px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  text-align: center;
+  background: url(../img/bg1.1.jpg) center right no-repeat;
+  background-size: cover;
+  color: white; }
+  #contact iframe {
+    width: 100%; }
+  #contact span {
+    color: red; }
+
+.social {
+  margin-top: 20px;
+  font-size: 26px; }
+  .social .i-instagram {
+    color: red; }
+  .social .i-facebook {
+    color: blue; }
+  .social .i-gplus {
+    color: orangered; }
