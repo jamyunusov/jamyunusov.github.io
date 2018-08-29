@@ -1,2 +1,2 @@
-# jamyunusov.github.io
+# Jamshid Yunusov
 repository for exercises
